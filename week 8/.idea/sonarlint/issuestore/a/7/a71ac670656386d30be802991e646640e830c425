@@ -1,0 +1,9 @@
+
+h
+java:S1192W"KDefine a constant instead of duplicating this literal "fullName= " 3 times.(ß€ 8æ®Õç¹1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şá¯8í®Õç¹1
+G	java:S106W"+Replace this use of System.out by a logger.(ß€ 8ª¯Õç¹1
+G	java:S106X"+Replace this use of System.out by a logger.(ÿ„Ö¶8¬¯Õç¹1
+G	java:S106["+Replace this use of System.out by a logger.(ß€ 8¯¯Õç¹1
+G	java:S106\"+Replace this use of System.out by a logger.(ÿ„Ö¶8°¯Õç¹1
+G	java:S106^"+Replace this use of System.out by a logger.(ß€ 8²¯Õç¹1
