@@ -1,0 +1,45 @@
+package w9;
+
+ class Person {
+    private String name;
+    private int age;
+    private String country;
+
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+
+    public int getAge() {
+        return age;
+    }
+
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+
+    public String getCountry() {
+        return country;
+    }
+
+
+    public void setCountry(String country) {
+        this.country = country;
+    }
+}
+public class Qs11{
+    public static void main(String[] args){
+        Person pe1=new Person();
+        pe1.setName("rutvi");
+        System.out.println(pe1.getName());
+        pe1.setAge(23);
+        System.out.println(pe1.getAge());
+    }
+}
