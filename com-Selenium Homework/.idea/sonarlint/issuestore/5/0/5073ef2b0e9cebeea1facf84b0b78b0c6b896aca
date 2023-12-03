@@ -1,0 +1,22 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÓş³8äõ†èÂ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÑŸøÿÿÿÿ8äõ†èÂ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áùğìûÿÿÿÿ8äõ†èÂ1
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æöôıÿÿÿÿ8äõ†èÂ1
+r	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÃ—Åûÿÿÿÿ8äõ†èÂ1
+m	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¦ÊŒ8äõ†èÂ1
+m	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÁ•8äõ†èÂ1
+r	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ä˜Áúÿÿÿÿ8äõ†èÂ1
+r	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ‹­úÿÿÿÿ8äõ†èÂ1
+m	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ïª‡8äõ†èÂ1
+m	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨’…˜8äõ†èÂ1
+m	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠúŸ˜8äõ†èÂ1
+r	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÷Á­ÿÿÿÿÿ8ÊÖ‡èÂ1
+r	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒªïûÿÿÿÿ8ÊÖ‡èÂ1
+L	java:S106"+Replace this use of System.out by a logger.(ãÂŸáûÿÿÿÿ8îõ†èÂ1
+L	java:S106"+Replace this use of System.out by a logger.(ãÂŸáûÿÿÿÿ8ïõ†èÂ1
+L	java:S106'"+Replace this use of System.out by a logger.(ãÂŸáûÿÿÿÿ8ïõ†èÂ1
+L	java:S1060"+Replace this use of System.out by a logger.(ãÂŸáûÿÿÿÿ8ğõ†èÂ1
+L	java:S1068"+Replace this use of System.out by a logger.(ãÂŸáûÿÿÿÿ8ñõ†èÂ1
+L	java:S106@"+Replace this use of System.out by a logger.(ãÂŸáûÿÿÿÿ8òõ†èÂ1
+L	java:S106H"+Replace this use of System.out by a logger.(ãÂŸáûÿÿÿÿ8ÙÖ‡èÂ1
