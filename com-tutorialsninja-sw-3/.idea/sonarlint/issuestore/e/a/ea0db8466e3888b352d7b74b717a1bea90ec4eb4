@@ -1,0 +1,16 @@
+
+i
+java:S1192,"LDefine a constant instead of duplicating this literal "MacBook Pro" 3 times.(¨š©Ú8á®¦âÃ1
+m	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘©ëÙ8á®¦âÃ1
+m	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆì€‰8á®¦âÃ1
+m	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾æÍà8á®¦âÃ1
+r	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ö•Èûÿÿÿÿ8á®¦âÃ1
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯©€ıÿÿÿÿ8á®¦âÃ1
+T
+java:S2387"2"baseUrl" is the name of a field in "TopMenuTest".(¸Î‡¥şÿÿÿÿ8ë®¦âÃ1
+\
+java:S1161":Add the "@Override" annotation above this method signature(”ª…Œÿÿÿÿÿ8í®¦âÃ1
+]
+java:S1161…":Add the "@Override" annotation above this method signature(—µ±şıÿÿÿÿ8ö®¦âÃ1
+H
+java:S5960"+Remove this assertion from production code.(Èìñí8÷®¦âÃ1

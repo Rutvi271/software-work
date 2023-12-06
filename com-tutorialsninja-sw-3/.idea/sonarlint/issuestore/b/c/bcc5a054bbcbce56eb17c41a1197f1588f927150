@@ -1,0 +1,23 @@
+
+e
+java:S1192:"HDefine a constant instead of duplicating this literal "@123456" 3 times.(Ÿ³„Í8îèÈäÃ1
+®
+java:S1192"Define a constant instead of duplicating this literal "//ul[@class='list-inline']/li[2]/a/span[@class='hidden-xs hidden-sm hidden-md']" 6 times.(ÄÌ¯à8ìèÈäÃ1
+f
+java:S1192H"IDefine a constant instead of duplicating this literal "Continue" 3 times.(ˆ‹Ù8˜ ËäÃ1
+z
+java:S1192"XDefine a constant instead of duplicating this literal "//div[@id='content']/h1" 4 times.(¯Èöøıÿÿÿÿ8íèÈäÃ1
+r	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıª‰Îûÿÿÿÿ8îèÈäÃ1
+m	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹…«8îèÈäÃ1
+r	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÖêìûÿÿÿÿ8îèÈäÃ1
+r	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÓ±„úÿÿÿÿ8ïèÈäÃ1
+r	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıª‰Îûÿÿÿÿ8™ ËäÃ1
+m	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹…«8™ ËäÃ1
+T
+java:S2387"2"baseUrl" is the name of a field in "TopMenuTest".(¸Î‡¥şÿÿÿÿ8ıèÈäÃ1
+\
+java:S1161":Add the "@Override" annotation above this method signature(”ª…Œÿÿÿÿÿ8€éÈäÃ1
+\
+java:S1161n":Add the "@Override" annotation above this method signature(—µ±şıÿÿÿÿ8éÈäÃ1
+H
+java:S5960"+Remove this assertion from production code.(ª÷8éÈäÃ1
