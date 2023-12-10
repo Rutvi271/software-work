@@ -134,6 +134,6 @@ public class TestSuite extends TopMenuTest {
 
     @After
     public void close(){
-      // closeBrowser();
+       closeBrowser();
     }
 }
